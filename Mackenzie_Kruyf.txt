@@ -1,0 +1,6 @@
+	    There are two types of people
+
+if (condition)		and		if (condition){
+{
+   /*......*/				   /*......*/
+}					}
